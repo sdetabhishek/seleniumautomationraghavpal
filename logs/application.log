@@ -1,0 +1,4 @@
+2026-05-28 11:38:30 [main] INFO  Log - Initiating Browser Instance
+2026-05-28 11:38:32 [main] INFO  Log - Navigating to URL
+2026-05-28 11:38:34 [main] INFO  Log - Asserting Page Title
+2026-05-28 11:38:34 [main] INFO  Log - Closing Browser
